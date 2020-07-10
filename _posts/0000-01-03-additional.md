@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our third slide!"
 ---
 This is an additional slide I'm trying to add to test commits on my own.
 
